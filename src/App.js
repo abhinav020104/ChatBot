@@ -6,7 +6,7 @@ let api_key  = process.env.REACT_APP_API_KEY;
 function App() {
   const [messages , setMessages] = useState([
     {
-      message:"Hello I Am Vidya ! How Can I Help You ? ",
+      message:"Hello I Am Vidya ! I am here to resolve your queries ! ",
       sender:"ChatBot",
     }
   ])
